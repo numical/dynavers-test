@@ -4,6 +4,7 @@
   "description": "Module to support testing of dynavers",
   "main": "index.js",
   "scripts": {
+    "pretest": "semistandard",
     "test": "jasmine"
   },
   "repository": {
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/numical/dynavers-test#readme",
   "devDependencies": {
-    "jasmine": "^2.5.2"
+    "jasmine": "^2.5.2",
+    "semistandard": "^9.0.0"
   }
 }
