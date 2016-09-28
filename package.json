@@ -1,6 +1,6 @@
 {
   "name": "dynavers-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module to support testing of dynavers",
   "main": "index.js",
   "scripts": {
