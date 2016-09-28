@@ -1,0 +1,25 @@
+{
+  "name": "dynavers-test",
+  "version": "0.0.1",
+  "description": "Module to support testing of dynavers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numical/dynavers-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Mike Evans mike.evans@numical.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/numical/dynavers-test/issues"
+  },
+  "homepage": "https://github.com/numical/dynavers-test#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
